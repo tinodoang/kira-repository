@@ -1,4 +1,6 @@
 --rancana kedepan nya--
 -saya mau belajar lebih banyak lagi
 *lagi dan lagi
+-belajar laravel
+  ^membuat project baru
 -membahagiakan orangtua
